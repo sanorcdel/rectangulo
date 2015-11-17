@@ -4,4 +4,5 @@ class rectangulo:
 		self.y = y
 
 	def area(self):
+		"""Esta función calcula el área de un rectángulo mediante x e y"""
 		return self.x * self.y
